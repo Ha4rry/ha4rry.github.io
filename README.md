@@ -2,4 +2,4 @@
 
 For all of my web stuff
 
-wsesdo;ihwevgfpojkhwearfiogkjbqnwerfvjkb
+* [Happy Number Checker (HNC)](https://ha4rry.github.io/hnc)

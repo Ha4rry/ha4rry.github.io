@@ -1,6 +1,7 @@
 # ha4rry.github.io
 
-For all of my web stuff..
+For all of my web stuff.
+
 🏫 - School project.
 
 * [Happy Number Checker (HNC)](https://ha4rry.github.io/hnc)

@@ -10,6 +10,6 @@ For all of my web stuff.
 * [🏫 Harry's Maths World (hmw)](https://ha4rry.github.io/hmw)
 * [Simultaneous equations (my formula and a solver)](https://ha4rry.github.io/simultaneous-equations)
 * [📱 1 percent](https://ha4rry.github.io/onepercent/)
-
+* [🕑 clock](https://ha4rry.github.io/clock/)
 🏫 - School project  
 📱 - Made for mobile phones

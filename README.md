@@ -11,6 +11,7 @@ For all of my web stuff.
 * [Simultaneous equations (my formula and a solver)](https://ha4rry.github.io/simultaneous-equations)
 * [📱 1 percent](https://ha4rry.github.io/onepercent/)
 * [🕑 clock](https://ha4rry.github.io/clock/)
+* [🖩 Desmos Utilities Bookmarklets](https://ha4rry.github.io/desmos-utils-bookmarklets/)
 
 🏫 - School project  
 📱 - Made for mobile phones
